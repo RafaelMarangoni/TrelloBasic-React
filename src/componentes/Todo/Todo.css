@@ -1,0 +1,9 @@
+form {
+  width: 95%;
+  margin: 0 auto;
+}
+
+div.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
